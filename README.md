@@ -89,10 +89,8 @@ I'm currently finishing a Master's in Cybersecurity at Polytechnic Institute of 
   <!-- Linkdin -->
   <a href="https://www.linkedin.com/in/tomasferreira-01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <!-- Discord -->
- <a href="https://discord.gg/ZAyvrrbj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
+  <a href="https://discord.gg/ZAyvrrbj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<div>
-  <!-- Snake Animation of Commits -->
+ <!-- Snake Animation of Commits -->
   ![Snake animation](https://github.com/lC3F0X/lC3F0X/blob/output/github-contribution-grid-snake.svg)
 </div>
