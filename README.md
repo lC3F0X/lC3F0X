@@ -58,9 +58,9 @@ I'm currently finishing a Master's in Cybersecurity at Polytechnic Institute of 
   </div>
 
   <!-- Profile Pic -->
-  <div>
+  <!--<div>
     <img align="right" alt="profilePicture" height="150" style="max-width: 100%; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64753278?v=4">
-  </div>
+  </div>-->
 </div>
 
 <br>
