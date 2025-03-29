@@ -63,11 +63,13 @@ I'm currently finishing a Master's in Cybersecurity at Polytechnic Institute of 
   </div>
 </div>
 
+<br>
+
 <!-- GitHub Stats & Most used Languages -->
 <div align="center">
-  <a href="https://github.com/TomasRamosFerreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasferreira&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/lC3F0X">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lC3F0X&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lC3F0X&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -88,7 +90,9 @@ I'm currently finishing a Master's in Cybersecurity at Polytechnic Institute of 
   <a href="https://www.linkedin.com/in/tomasferreira-01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <!-- Discord -->
  <a href="https://discord.gg/ZAyvrrbj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
- 
+</div>
+
+<div>
   <!-- Snake Animation of Commits -->
   ![Snake animation](https://github.com/lC3F0X/lC3F0X/blob/output/github-contribution-grid-snake.svg)
 </div>
