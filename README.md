@@ -21,16 +21,9 @@ I'm currently finishing a Master's in Cybersecurity at Polytechnic Institute of 
 ## 🌍 Languages:
  - Portuguese (native);
  - English (fluent);
- - Spanish (intermediate)
+ - Spanish (intermediate).
 
-<!-- GitHub Stats & Most used Languages -->
-<div align="center">
-  <a href="https://github.com/TomasRamosFerreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasferreira&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
+## 💾 Programming Language Knowledge:
  <!-- Most used Languages & Profile pic -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Front End -->
@@ -69,9 +62,18 @@ I'm currently finishing a Master's in Cybersecurity at Polytechnic Institute of 
     <img align="right" alt="profilePicture" height="150" style="max-width: 100%; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64753278?v=4">
   </div>
 </div>
- 
+
+<!-- GitHub Stats & Most used Languages -->
+<div align="center">
+  <a href="https://github.com/TomasRamosFerreira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasferreira&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+ ## Social:
 <!-- Social media(https://dev.to/envoy_/150-badges-for-github-pnk) -->
-<div>
+<div align="center">
   <!-- Youtube -->
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>-->
   <!-- Facebook -->
@@ -89,5 +91,4 @@ I'm currently finishing a Master's in Cybersecurity at Polytechnic Institute of 
  
   <!-- Snake Animation of Commits -->
   ![Snake animation](https://github.com/lC3F0X/lC3F0X/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
